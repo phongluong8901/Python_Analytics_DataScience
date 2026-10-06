@@ -1,0 +1,14 @@
+RGB_224x224/
+AIML Dataset.csv
+spotify_millsongdata.csv
+movies.csv
+
+__pycache__/
+build/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+*.log
+*.pkl
